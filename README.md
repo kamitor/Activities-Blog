@@ -9,15 +9,15 @@
 3.  **Laser Tag**: Similar to airsoft, but without the actual projectiles. Laser tag is a fantastic way to embrace your competitive spirit, teamwork, and strategy skills in a high-tech environment.
     
 4.  **Parkour or Free Running**: If you're into technology and want to feel like an urban ninja, try parkour or free running. It involves running, jumping, climbing, and acrobatics, and you can use apps to track and improve your performance.
+		Baarnse Bos Exercise Camp.
     
-5.  **Escape Room Challenges**: Many escape rooms in the Netherlands offer physically demanding puzzles and challenges. You and your friend can solve intricate puzzles and riddles while getting a good workout.
+6.  **Escape Room Challenges**: Many escape rooms in the Netherlands offer physically demanding puzzles and challenges. You and your friend can solve intricate puzzles and riddles while getting a good workout.
     
-6.  **Obstacle Course Races**: Participate in obstacle course races like Spartan Race or Tough Mudder. These events provide a challenging and competitive environment, and you can train together to conquer obstacles.
+7.  **Obstacle Course Races**: Participate in obstacle course races like Spartan Race or Tough Mudder. These events provide a challenging and competitive environment, and you can train together to conquer obstacles.
     
-7.  **Sword Fighting Classes**: If you're into Dungeons and Dragons, you might enjoy learning how to wield a sword. Look for historical fencing or martial arts schools that offer classes in the Netherlands.
+8.  **Sword Fighting Classes**: If you're into Dungeons and Dragons, you might enjoy learning how to wield a sword. Look for historical fencing or martial arts schools that offer classes in the Netherlands.
  - Jedi Training: 
 
-9.  **Ultimate Frisbee**: This team sport is physically demanding and combines elements of soccer, football, and basketball. It's highly active and a great way to stay fit while having fun with friends.
     
 10.  **Virtual Reality Gaming**: While not physically strenuous, virtual reality (VR) gaming can provide an immersive and social experience. You can explore various VR games and experiences that might align with your interests.
 11.  **WarDriving** 
@@ -65,5 +65,6 @@ Drove around to discover and map wireless networks in the area.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzYwMzEzMSwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTIwNDkyNjU3NDMsMTc0MzYwMzEzMSwtMz
+MyNDU1MzYzXX0=
 -->
