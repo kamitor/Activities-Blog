@@ -215,6 +215,9 @@
 | 14  | Moulay Ismail Mausoleum                  | Meknes         | N/A                                              | Mausoleum, historical site                   | Visit the Moulay Ismail Mausoleum, a historical site and mausoleum, providing insights into Moroccan history and architecture.             | [ ]     | [MM/DD/YY] | [Friend's Name] |
 | 15  | Oudaya Gardens and Kasbah                | Rabat          | N/A                                              | Gardens, historic fortress                    | Explore Oudaya Gardens and Kasbah, offering a blend of natural beauty and historic architecture in Rabat.                                 | [ ]     | [MM/DD/YY] | [Friend's Name] |
 
+
+## Hacker trip. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjAwNDU4MiwtMTA1NzExNzE4OV19
+eyJoaXN0b3J5IjpbLTE2NDI4NjgyNjMsLTEwNTcxMTcxODldfQ
+==
 -->
