@@ -15,7 +15,7 @@
 6.  **Obstacle Course Races**: Participate in obstacle course races like Spartan Race or Tough Mudder. These events provide a challenging and competitive environment, and you can train together to conquer obstacles.
     
 7.  **Sword Fighting Classes**: If you're into Dungeons and Dragons, you might enjoy learning how to wield a sword. Look for historical fencing or martial arts schools that offer classes in the Netherlands.
- -
+ - Jedi Training: 
 
 9.  **Ultimate Frisbee**: This team sport is physically demanding and combines elements of soccer, football, and basketball. It's highly active and a great way to stay fit while having fun with friends.
     
@@ -65,5 +65,5 @@ Drove around to discover and map wireless networks in the area.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjA5NjcwOSwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTc0MzYwMzEzMSwtMzMyNDU1MzYzXX0=
 -->
