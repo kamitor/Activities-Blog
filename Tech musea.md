@@ -216,8 +216,8 @@
 | 15  | Oudaya Gardens and Kasbah                | Rabat          | N/A                                              | Gardens, historic fortress                    | Explore Oudaya Gardens and Kasbah, offering a blend of natural beauty and historic architecture in Rabat.                                 | [ ]     | [MM/DD/YY] | [Friend's Name] |
 
 
-## Hacker trip. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDI4NjgyNjMsLTEwNTcxMTcxODldfQ
-==
+eyJoaXN0b3J5IjpbMTYzNzExNjg2NiwtMTY0Mjg2ODI2MywtMT
+A1NzExNzE4OV19
 -->
