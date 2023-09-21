@@ -259,8 +259,78 @@ Operation Southern Spain Road Warrior spans 16 days of intense exploration. Dail
 - **Total Time at Locations:** 6 hours
 
 
+### DAY 12: RONDA & GIBRALTAR
+- **Operational Base:** Fuengirola, Spain
+- **Mission Objective:** Return to Ronda and revisit Gibraltar.
+- **Distance Traveled:** Approx. 100 km (Fuengirola to Ronda) and 140 km (Ronda to Gibraltar).
+- **Gas Price (One Way to Ronda):** €15
+- **Gas Price (One Way to Gibraltar):** €20
+- **Website (Ronda Wine Museum):** [Ronda Wine Museum](http://www.museorondadelvino.es/)
+- **Website (Gibraltar Museum):** [Gibraltar Museum](https://www.gibmuseum.gi/)
+- **Location (Ronda Wine Museum):** Calle La Bola, 9, 29400 Ronda
+- **Location (Gibraltar Museum):** 18-20 Bomb House Lane, Gibraltar
+- **Geo-Location (Ronda Wine Museum):** 36.7413° N, 5.1646° W
+- **Geo-Location (Gibraltar):** 36.1408° N, 5.3536° W
+
+**Day 12 Schedule:**
+- 0900 hours: Morning visit to Ronda Wine Museum.
+- 1200 hours: Lunch in Ronda.
+- 1400 hours: Drive to Gibraltar.
+- 1600 hours: Explore Gibraltar Museum.
+- 1900 hours: Return to Fuengirola.
+- 2000 hours: Dinner in Fuengirola.
+- **Total Time in Car (Round Trip to Ronda and Gibraltar):** 6 hours
+- **Total Time at Locations:** 6 hours
+
+### DAY 13: MALAGA & MIJAS
+- **Operational Base:** Fuengirola, Spain
+- **Mission Objective:** Explore Malaga and revisit Mijas.
+- **Distance Traveled:** Approx. 30 km (Fuengirola to Malaga) and 10 km (Fuengirola to Mijas).
+- **Gas Price (One Way to Malaga):** €5
+- **Gas Price (One Way to Mijas):** €3
+- **Website (Malaga Interactive Museum):** [Malaga Interactive Museum](https://www.mimaec.com/)
+- **Website (Mijas Mudejar Tower):** [Mijas Mudejar Tower](https://www.mijas.es/contenidos/9621/torre-mudejar)
+- **Location (Malaga Interactive Museum):** Plaza de la Aduana, 1, 29015 Malaga
+- **Location (Mijas Mudejar Tower):** Plaza Virgen de la Peña, 1, 29650 Mijas
+- **Geo-Location (Malaga Interactive Museum):** 36.7231° N, 4.4183° W
+- **Geo-Location (Mijas Mudejar Tower):** 36.5979° N, 4.6389° W
+
+**Day 13 Schedule:**
+- 0900 hours: Morning visit to Malaga Interactive Museum.
+- 1200 hours: Lunch in Malaga.
+- 1400 hours: Drive to Mijas.
+- 1500 hours: Explore Mijas Mudejar Tower.
+- 1700 hours: Return to Fuengirola.
+- 1800 hours: Evening at leisure in Fuengirola.
+- **Total Time in Car (Round Trip to Malaga and Mijas):** 3 hours
+- **Total Time at Locations:** 6 hours
+
+### DAY 14: GIBRALTAR & TARIFA
+- **Operational Base:** Fuengirola, Spain
+- **Mission Objective:** Return to Gibraltar and explore Tarifa.
+- **Distance Traveled:** Approx. 140 km (Fuengirola to Gibraltar) and 100 km (Gibraltar to Tarifa).
+- **Gas Price (One Way to Gibraltar):** €20
+- **Gas Price (One Way to Tarifa):** €15
+- **Website (Gibraltar Museum):** [Gibraltar Museum](https://www.gibmuseum.gi/)
+- **Website (Castle of Tarifa):** [Castle of Tarifa](http://castillodeguzman.org/)
+- **Location (Gibraltar Museum):** 18-20 Bomb House Lane, Gibraltar
+- **Location (Castle of Tarifa):** Plaza Santa Maria, s/n, 11380 Tarifa
+- **Geo-Location (Gibraltar):** 36.1408° N, 5.3536° W
+- **Geo-Location (Tarifa):** 36.0144° N, 5.6044° W
+
+**Day 14 Schedule:**
+- 0900 hours: Morning revisit to Gibraltar Museum.
+- 1200 hours: Lunch in Gibraltar.
+- 1400 hours: Drive to Tarifa.
+- 1600 hours: Explore Castle of Tarifa.
+- 1900 hours: Return to Fuengirola.
+- 2000 hours: Dinner in Fuengirola.
+- **Total Time in Car (Round Trip to Gibraltar and Tarifa):** 6 hours
+- **Total Time at Locations:** 6 hours
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTI0MTE1MCwtNDEzNjIwOTQ5LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTE5NjU5MzY3MDEsLTQxMzYyMDk0OSw3Mz
+A5OTgxMTZdfQ==
 -->
